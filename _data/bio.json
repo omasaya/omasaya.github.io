@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/omasaya" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/masaya-o-897899289/" }
-      //{ "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      //{ "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      
     ]
   },
   "interests": [
