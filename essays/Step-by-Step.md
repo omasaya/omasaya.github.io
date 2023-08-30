@@ -14,7 +14,7 @@ labels:
 
 ## My Thoughts on JavaScript
 
-I find it to be exciting but slightly daunting to step foot into JavaScript. Initially, I’ve always thought learning new things were really scary but as I progressed into my journey of programming, I learned it can also be fun. At the start of my Software Engineering class, we performed basic exercises on freecodecamp.com to get us introduced and start typing JavaScript. So far doing these exercises, I can say that JavaScript feels much easier to take in than Java or even C++, so in that sense I think JavaScript is a really nice programming language for how straight forward it feels.  
+I find it exciting but slightly daunting to step my foot into JavaScript. Initially, I’ve always thought learning new things were really scary but as I progressed into my journey of programming, I learned it can also be fun. At the start of my Software Engineering class, we performed basic exercises on freecodecamp.org to get us introduced and start typing JavaScript. So far doing these exercises, I can say that JavaScript feels much easier to take in than Java or even C++, so in that sense I think JavaScript is a really nice programming language for how straight forward it feels.  
 
 ## Valuable Lessons
 
