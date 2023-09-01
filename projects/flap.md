@@ -11,7 +11,7 @@ labels:
 summary: "A Flappy Bird game I developed during summer."
 ---
 
-<img class="ui medium right floated rounded image" src="../img/kirbybird.jpg">
+<img class="ui small right floated rounded image" src="../img/kirbybird.jpg">
 
 Flappy Bird is the second project I decided to work on by myself during summer break. My version of Flappy Bird was coded using the language GDScript on Godot. I based this off a video I found online. I didn’t want to copy everything that was done in the video so I made my version Kirby themed.  
 
