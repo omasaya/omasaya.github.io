@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/fishhook.png
-title: "Cotton"
+title: "Fish Game"
 date: 2022
 published: true
 labels:
