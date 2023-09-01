@@ -18,7 +18,7 @@ Growing up, I never knew what I was really interested in but I always had a deep
 
 Going into this degree, I became fascinated by how programming is implemented into most of the things we use today. It is definitely a surreal experience to think that I grew up playing video games or browsing the web and to think that this was all programmed by someone in this world with the understanding I have now about coding. 
 
-Although I haven't discovered all the possibilities with the Computer Science field, I have an interest towards Software Engineering and Web Development. I hear that these are big fields with tons of opportunities which means there are a lot more things to discover. More recently, I developed an interest in Machine learning and it’s interesting how wide this field stretches out to. 
+Although I haven't discovered all the possibilities in the Computer Science field, I have an interest in Software Engineering and Web Development. I hear that these are big fields with tons of opportunities which means there are a lot more things to discover. More recently, I developed an interest in Machine learning and it’s interesting how wide this field stretches out to. 
 
 <img width="200px" class="rounded float-end pe-1" src="../img/man.png">
 
