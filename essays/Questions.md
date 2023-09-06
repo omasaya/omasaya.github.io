@@ -18,11 +18,13 @@ The internet can be a valuable resource for getting information. When turning to
 ## The Bad
 
 Title: [React is not defined when trying to load ui component from cdn](https://stackoverflow.com/questions/76939409/react-is-not-defined-when-trying-to-load-ui-component-from-cdn) 
+
 In this example, the user is trying to resolve a technical issue related to loading a React component from a Content Delivery Network (CDN). The user is getting a “React is not defined” error and is seeking assistance in resolving it. This is a bad question because the user lacks specific details. The problem deals with Webpacks and dependencies so dealing with this issue probably needs more information on how this person set this project up. This will also make it harder to be reproduced by others as it is specific to the user. Even in replies, users who are trying to answer this question are asking for more information on the code. As expected, the answers can only be given advice and the respondent even gave links to guides that may resolve the issue. 
 
 ## The Good 
 
 Title: [Why is processing a sorted array faster than processing an unsorted array](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+
 In this example, the user is asking why processing a sorted array is faster than processing an unsorted array. Just from the title we can tell that this user has a clear and concise objective. The user provides C++ and Java code examples to confirm why the sorted array is faster. This means that the user took time to understand what was going on. This also provides context and reproducible data so that other users can see it for themselves. We can see that this was a smart example of asking a question because this is one of the top questions that has the most attraction. This type of question is appropriate for a programming forum because it represents a well-defined problem, provides the right context, and invites discussion from other users. 
 
 ## Conclusion
