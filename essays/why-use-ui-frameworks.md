@@ -11,6 +11,7 @@ labels:
   - UI Framework
 ---
 
+<img width="1000px" class="float" src="../img/ui-frameworks/bootstrap.png">
 
 ## UI Frameworks
 
@@ -24,18 +25,18 @@ Using frameworks is not as easy as it sounds, it usually takes as much effort as
 
 ​​​​​​​Bootstrap 5 is one of the most popular frameworks for web development. Bootstrap offers modern and aesthetic UI designs that are user and developer-friendly. My experience with it so far has been really exciting and fun to use. I’ve never wondered how websites are made but learning how to use HTML, CSS, and UI frameworks was really fascinating. While it may be hard to know everything about Bootstrap, I really love how easy it is to implement once you know about it. Bootstrap also has guides to how to use every component and some of them are really easy to understand. Overall, I am really happy that I discovered these tools.
 
-## Recreation of a Website:
+## Recreation of a Website
 
-In my ICS 314 class, we were given an assignment to recreate a website of your own choice and for that assignment, I chose to recreate the Wacom online store. 
+In my ICS 314 class, we were given an assignment to recreate a website of your own choice and for that assignment, I chose to recreate the [Wacom online store] (https://estore.wacom.com/en-us/?gclid=EAIaIQobChMI06COhrzegQMV_w2tBh0iLAhjEAAYASAAEgKG8fD_BwE). 
 
 Real Website:
 
-<img width="230px" class="float" src="../img/ui-frameworks/real1.png">
-<img width="230px" class="float" src="../img/ui-frameworks/real2.png">
-<img width="230px" class="float" src="../img/ui-frameworks/real3.png">
+<img width="300px" class="float" src="../img/ui-frameworks/real1.png">
+<img width="300px" class="float" src="../img/ui-frameworks/real2.png">
+<img width="300px" class="float" src="../img/ui-frameworks/real3.png">
 
 Recreatioin of Website: 
 
-<img width="230px" class="float" src="../img/ui-frameworks/recreation1.png">
-<img width="230px" class="float" src="../img/ui-frameworks/recreation2.png">
-<img width="230px" class="float" src="../img/ui-frameworks/recreation3.png">
+<img width="300px" class="float" src="../img/ui-frameworks/recreation1.png">
+<img width="300px" class="float" src="../img/ui-frameworks/recreation2.png">
+<img width="300px" class="float" src="../img/ui-frameworks/recreation3.png">
