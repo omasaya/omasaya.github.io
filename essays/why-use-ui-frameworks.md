@@ -31,12 +31,12 @@ In my ICS 314 class, we were given an assignment to recreate a website of your o
 
 Real Website:
 
-<img width="300px" class="float" src="../img/ui-frameworks/real1.png">
-<img width="300px" class="float" src="../img/ui-frameworks/real2.png">
-<img width="300px" class="float" src="../img/ui-frameworks/real3.png">
+<img width="400px" class="float" src="../img/ui-frameworks/real1.png">
+<img width="400px" class="float" src="../img/ui-frameworks/real2.png">
+<img width="400px" class="float" src="../img/ui-frameworks/real3.png">
 
 Recreatioin of Website: 
 
-<img width="300px" class="float" src="../img/ui-frameworks/recreation1.png">
-<img width="300px" class="float" src="../img/ui-frameworks/recreation2.png">
-<img width="300px" class="float" src="../img/ui-frameworks/recreation3.png">
+<img width="400px" class="float" src="../img/ui-frameworks/recreation1.png">
+<img width="400px" class="float" src="../img/ui-frameworks/recreation2.png">
+<img width="400px" class="float" src="../img/ui-frameworks/recreation3.png">
