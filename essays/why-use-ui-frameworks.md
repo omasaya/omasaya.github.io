@@ -11,7 +11,7 @@ labels:
   - UI Framework
 ---
 
-<img width="1000px" class="float" src="../img/ui-frameworks/bootstrap.png">
+<img width="700px" class="float" src="../img/ui-frameworks/bootstrap.png">
 
 ## UI Frameworks
 
@@ -27,7 +27,7 @@ Using frameworks is not as easy as it sounds, it usually takes as much effort as
 
 ## Recreation of a Website
 
-In my ICS 314 class, we were given an assignment to recreate a website of your own choice and for that assignment, I chose to recreate the [Wacom online store] (https://estore.wacom.com/en-us/?gclid=EAIaIQobChMI06COhrzegQMV_w2tBh0iLAhjEAAYASAAEgKG8fD_BwE). 
+In my ICS 314 class, we were given an assignment to recreate a website of your own choice and for that assignment, I chose to recreate the [Wacom online store](https://estore.wacom.com/en-us/?gclid=EAIaIQobChMI06COhrzegQMV_w2tBh0iLAhjEAAYASAAEgKG8fD_BwE). 
 
 Real Website:
 
