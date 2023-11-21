@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ai-clipart.png"> 
+<img width="500px" class="float" src="../img/ai-clipart.png">
 
 ## Introduction
 
