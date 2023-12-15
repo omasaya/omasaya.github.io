@@ -21,12 +21,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "keywords": [ "C", "C++", "Java", "Javascript", "GDScript" ]
     },
     {
+      "name": "Frameworks",
+      "keywords": [ "Bootstrap", "Meteor", "React.js", "Node.js" ]
+    },
+    {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub", "IntelliJ IDEA", "Digital Ocean" ]
     }
   ],
   "education": [
