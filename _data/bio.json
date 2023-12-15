@@ -1,0 +1,60 @@
+{
+  "basics": {
+    "name": "Masaya Oda",
+    "label": "Student",
+    "picture": "https://github.com/omasaya.png",
+    "email": "moda9@hawaii.edu",
+    "phone": "808-600-7188",
+    "website": "https://omasaya.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "omasaya", "url": "http://github.com/omasaya" },
+      { "network": "linkedin", "username": "Masaya Oda", "url": "http://linkedin.com/in/masaya-o-897899289/" }
+      
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Web Development" },
+    { "name": "Machine Learning" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "GDScript" ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [ "Bootstrap", "Meteor", "React.js", "Node.js" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "IntelliJ IDEA", "Digital Ocean" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Academic Merit Scholarship",
+      "date": "2021",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to first-time degree-seeking students. Students must have a 3.8 GPA upon the time of application."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
