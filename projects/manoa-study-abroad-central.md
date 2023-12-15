@@ -29,7 +29,7 @@ Manoa Study Abroad Central is an application that I developed for my final proje
 In this project, I was tasked with doing most of the post functions available on the site. In the "Add Post" tab, students can contribute by entering the title of their post, their username, the program they participated in, the country they visited, and a detailed description of their experiences. This would be displayed on the "Testimonials" page which is a collection of posts where you can comment and like posts you thought were interesting. The comments are there to be able to ask questions or to provide feedback on posts.
 
 
-<img width="500px" class="rounded pe-1" src="../img/MSAC/adminpost.jpeg">
+<img width="500px" class="rounded float-start pe-1" src="../img/MSAC/adminpost.jpeg">
 
 
 I was also responsible for developing the "Admin Post" page, where moderation of posts on the "Testimonials" page is managed. Access to the admin pages is restricted to admin accounts for security reasons. The flag button functionality allows the flagging of inappropriate posts. Flagged posts will subsequently be hidden from the user pages. The "remove post" option is designed to completely delete a post, offering a more comprehensive moderation tool. Additionally, administrators have the ability to remove inappropriate comments associated with the posts.
